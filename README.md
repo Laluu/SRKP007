@@ -121,7 +121,7 @@ By establishing the SRKP007, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![laluu](https://github.com/laluu.png?size=100)](https://github.com/laluu) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![laluu](https://github.com/laluu.png?size=100)](https://github.com/laluu) |  [![LUIZSER007](https://github.com/LUIZSER007.png?size=100)](https://github.com/LUIZSER007) 
 ----|----|----|----
 [laluu](https://github.com/laluu) | [LUIZSER007](https://github.com/LUIZSER007) 
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
