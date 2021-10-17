@@ -68,16 +68,16 @@ Click SRKP007 logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/laluu/SRKP007.git)
      </div>
 <br>
 <br >
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMUm)
  
  <div align="left">
   
