@@ -70,7 +70,7 @@ Click SRKP007 logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/laluu/SRKP007.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/laluu/SRKP007.git)
      </div>
 <br>
 <br >
